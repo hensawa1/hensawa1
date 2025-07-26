@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Henrique</h1>
-<h3 align="center">A passionate Data Engineer and Analyst of data from Brazil</h3>
+<h3 align="center">A passionate Cybersecurity  from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hensawa1&label=Profile%20views&color=0e75b6&style=flat" alt="hensawa1" /> </p>
 
-- 🌱 I’m currently learning **Django**
+
 
 - 💬 Ask me about **Python**
 
