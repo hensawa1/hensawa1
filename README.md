@@ -8,10 +8,10 @@
 
 I'm an IT professional bridging the gap between **Infrastructure** and **Offensive Security**. Currently using my background in critical systems to understand how to better break (and fix) them.
 
-- 🔭 **I’m currently working on:** Automating network tasks & Security Tools.
-- 🌱 **I’m currently learning:** Rust (Memory safety & low-level) & Advanced Pentesting techniques.
-- 🎯 **Goals:** eJPT Certification & Bug Bounty hunting.
-- 💬 **Ask me about:** Python scripting, Linux hardening, and Virtualization.
+ **I’m currently working on:** Automating network tasks & Security Tools.
+ **I’m currently learning:** Rust (Memory safety & low-level) & Advanced Pentesting techniques.
+ **Goals:** eJPT Certification & Bug Bounty hunting.
+
 
 ---
 
