@@ -4,7 +4,7 @@
 #### 🛡️ Infrastructure Intern @Gertec | Future Red Teamer
 
 <a href="https://linkedin.com/in/henrique carvalho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="henrique carvalho" height="30" width="40" /></a>
-<a href="https://instagram.com/henriquesaw4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="henriquesaw4" height="30" width="40" /></a
+<a href="https://instagram.com/henriquesaw4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="henriquesaw4" height="30" width="40" /></a>
 
 I'm an IT professional bridging the gap between **Infrastructure** and **Offensive Security**. Currently using my background in critical systems to understand how to better break (and fix) them.
 
