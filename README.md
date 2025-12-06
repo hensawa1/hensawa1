@@ -1,20 +1,6 @@
-<h1 align="center">Hi 👋, I'm Henrique</h1>
-<h3 align="center">A passionate Cybersecurity  from Brazil</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hensawa1&label=Profile%20views&color=0e75b6&style=flat" alt="hensawa1" /> </p>
-
-
-
-- 💬 Ask me about **Python**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
-<a href="https://linkedin.com/in/henrique carvalho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="henrique carvalho" height="30" width="40" /></a>
-<a href="https://instagram.com/henriquesaw4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="henriquesaw4" height="30" width="40" /></a>
-</p>
 
 ### Hi there, I'm Henrique! 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hensawa1&label=Profile%20views&color=0e75b6&style=flat" alt="hensawa1" /> </p>
 #### 🛡️ Infrastructure Intern @Gertec | Future Red Teamer
 
 I'm an IT professional bridging the gap between **Infrastructure** and **Offensive Security**. Currently using my background in critical systems to understand how to better break (and fix) them.
