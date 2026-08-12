@@ -1,7 +1,7 @@
 
- Hi there, I'm Henrique! 👋
+ Hi there, I'm Henrique! 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hensawa1&label=Profile%20views&color=0e75b6&style=flat" alt="hensawa1" /> </p>
-#### 🛡️ Infrastructure Intern @Gertec | Future Red Teamer
+####  Infrastructure Intern @Gertec | Future Red Teamer
 
 <a href="https://linkedin.com/in/henrique carvalho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="henrique carvalho" height="30" width="40" /></a>
 <a href="https://instagram.com/henriquesaw4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="henriquesaw4" height="30" width="40" /></a>
